@@ -35,6 +35,9 @@ thunder-monetize.com, 6343837988, RESELLER
 video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
+xandr.com, 14082, RESELLER
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
+zmaticoo.com, 5135655, RESELLER
 
 vungle.com,690525bd46a4f4afed6558a6,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
@@ -468,7 +471,3 @@ zoomd.com,88478941,RESELLER
 
 pangleglobal.com, 5033568, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
-xandr.com, 14082, RESELLER
-yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
-zmaticoo.com, 5135655, RESELLER
-
