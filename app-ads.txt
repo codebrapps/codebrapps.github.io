@@ -1,5 +1,5 @@
 google.com, pub-3146267090825056, DIRECT, f08c47fec0942fa0
-facebook.com, 1802676607185292, RESELLER, c3e20eee3f780d68
+facebook.com, 1802676607185292, DIRECT, c3e20eee3f780d68
 applovin.com, c80907d2f81724b4c83a821200a91267, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -471,3 +471,4 @@ zoomd.com,88478941,RESELLER
 
 pangleglobal.com, 5033568, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
